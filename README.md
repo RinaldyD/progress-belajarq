@@ -1,5 +1,5 @@
 # progress-belajarq
-My Repo is my experience learning at Dicoding
+My Repo is my experience learning programming
 
 **15 Mei 2021 (Progress 100%)**  
 Lulus pada kelas Belajar Dasar Pemrograman JavaScript
