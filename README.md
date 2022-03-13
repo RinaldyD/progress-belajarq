@@ -1,6 +1,22 @@
 # progress-belajarq
 My Repo is my experience learning programming
 
+**Proses belajar di FreeCodeCamp**
+**26 Maret 2021**
+Lulus pada kelas Responsive Web Design
+* Basic HTML and HTML5
+* Basic CSS
+* Applied Visual Design
+* Applied Accesibility
+* Responsive Web Design Principles
+* CSS Flexbox and CSS Grid
+* Responsive Web Design Projects including:
+* - Build a Tribute Page
+* - Build a Survey Form
+* - Build a Product Landing Page
+* - Build a Technical Documentation Page
+* - Build a Personal Portfolio Webpage
+
 **Proses belajar di Dicoding**
 **15 Mei 2021 (Progress 100%)**  
 Lulus pada kelas Belajar Dasar Pemrograman JavaScript
